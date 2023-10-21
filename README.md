@@ -1,1 +1,8 @@
-# Ali-Brown-CS-340_Client-Server-Dev_MongoDB-Dash
+# Ali-Brown-CS-340_Client-Server-Dev_MongoDB-JupiterNB
+
+## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+- Following object oriented principle that makes the code resuable. Good documentation and in-code comment as well as clean well formatted coding all helped.
+## How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+- Carefully reading and understanding project specification and the data needs of the project and how to work with exiting data set. This is different that other course because it introduced client side coding as opposed to console output applications in previous courses.
+## What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+- Computer scientists helps clients to organize, store, manipulate, secure, and present data critical to the their business processes. This also includes chosing the right kind of database and front-end framework for delivering the data to the user's device(client). 
